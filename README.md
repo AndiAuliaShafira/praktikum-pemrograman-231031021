@@ -3,4 +3,4 @@
 <div> NIM: 231031021 </div>
 <div> Prodi: Sistem Informasi </div>
 
-* Praktikum 1: Rangkaian Karakter (string) 'praktikum-a4.py'
+* Praktikum 4: Rangkaian Karakter (string) 'praktikum-a4.py'
